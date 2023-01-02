@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+
+.header-container {
+  display: flex;
+  justify-content: center;
+}
+
+.header-list {
+  display: flex;
+  margin: 0px;
+}
+
+.each-item {
+  list-style-type: none;
+  margin-right: 10px;
+}
